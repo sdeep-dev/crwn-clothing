@@ -19,4 +19,5 @@ const CollectionItem = ({ name, imageUrl, price }) => {
   );
 };
 
-export default CollectionItem;
+export default 1;
+export const CItem = CollectionItem;
